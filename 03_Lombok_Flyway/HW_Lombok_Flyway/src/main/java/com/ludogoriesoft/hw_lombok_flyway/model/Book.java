@@ -1,6 +1,5 @@
 package com.ludogoriesoft.hw_lombok_flyway.model;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
 
 import javax.persistence.*;
